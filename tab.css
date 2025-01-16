@@ -1,0 +1,59 @@
+@media screen and (max-width: 992px) {
+
+    .header-container {
+        padding: 0 5rem;
+        flex-direction: column;
+    }
+
+    .header-part1 {
+        width: 100%;
+    }
+
+    .header-part2 {
+        width: 80%;
+    }
+
+    .header-part1 h1 {
+        font-size: 3rem;
+
+    }
+
+
+    .featured-part2 {
+        flex-wrap: wrap;
+
+    }
+
+    .feature-flower {
+        width: 70%;
+        padding: 2rem;
+
+    }
+
+    .feature-img>img {
+        height: 90%;
+        width: 100%;
+    }
+
+    .hot-deal-section {
+        flex-wrap: wrap;
+    }
+
+    .insta {
+        flex-wrap: wrap;
+    }
+
+    .insta-flower {
+        flex: 1;
+        width: 50%;
+        height: 50%;
+    }
+
+
+
+
+
+
+
+
+}

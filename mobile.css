@@ -1,0 +1,91 @@
+@media screen and (max-width: 600px) {
+    .header-container {
+        padding: 0 3rem;
+    }
+
+    .header-part2 {
+        width: 100%;
+    }
+
+    .header-part1 h1 {
+        font-size: 2rem;
+    }
+
+    .feature-flower-container {
+        padding: 3rem 3rem;
+    }
+
+    .feature-flower {
+        width: 90%;
+        padding: 1.5rem;
+
+    }
+
+    .category-inner {
+        margin: 3rem 3rem;
+        padding: 3rem 2rem;
+        flex-wrap: wrap;
+        gap: 3rem;
+    }
+
+
+    .hot-deal-section {
+        flex-direction: column;
+        gap: 1rem;
+
+    }
+
+    .hotdeal-part1 {
+        width: 60%;
+    }
+
+    .hotdeal-part2 {
+        width: 60%;
+    }
+
+    .insta {
+        flex-direction: column;
+    }
+
+
+    .insta-flower {
+        flex: 1;
+        width: 80%;
+        height: 80%;
+    }
+
+.latest-deal {
+    height: 100%;
+    margin: 3rem 3rem;
+    padding: 3rem 3rem;
+    align-items: center;
+    text-align: center;
+}
+
+
+.latest-deal-area>h1 {
+    font-size: 1rem;
+}
+.latest-deal-area>h1 {
+    font-size: 1.2rem;
+}
+.latest-deal-area>p {
+    font-size: 0.7rem;
+}
+.subscrib-input {
+    flex-direction: column;
+}
+.subscrib-input input {
+    text-align: center;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+}
